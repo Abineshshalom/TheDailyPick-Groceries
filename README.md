@@ -1,6 +1,5 @@
 The Daily Pick Dashboard is an interactive Power BI project developed to visualize and analyze key performance metrics of an online grocery store.
 The dashboard focuses on providing a comprehensive view of business operations through intuitive visuals and real-time analytics.
-
 Key Features:
 Total Sales: Tracks overall revenue generated over selected time periods.
 Average Sales: Displays average revenue per order or day to identify trends and seasonality.
